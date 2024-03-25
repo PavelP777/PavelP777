@@ -1,6 +1,4 @@
 
-init python:
-
     config.thumbnail_width = 318
     config.thumbnail_height = 179
 
