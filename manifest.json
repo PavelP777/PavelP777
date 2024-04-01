@@ -7,7 +7,8 @@
       "version": "1.1",
       "description": "New event with Mikasa.\nStart via Cheats - Events.\n\n{size=-5}Trap content{/size}",
       "game_version": "0.23",
-      "image": "http://mods.kunoichi-trainer.ninja/images/patron/mikasa_mod.webp"
+      "image": "http://mods.kunoichi-trainer.ninja/images/patron/mikasa_mod.webp",
+      "file_name": "mikasa_mod.zip"
     },
     {
       "id": "shizune_secret",
@@ -16,8 +17,7 @@
       "description": "Event with Shizune\n{size=-5}Start event via Cheats - Events{/size}",
       "game_version": "0.22",
       "author": "Dinaki & Mizumi",
-      "image": "https://kunoichi-trainer.ru/mod_screenshots/shizune_secret.webp",
-      "file_name": "shizune_secret.zip"
+      "image": "https://kunoichi-trainer.ru/mod_screenshots/shizune_secret.webp"
     },
     {
       "id": "shinobi_sisters_pack",
