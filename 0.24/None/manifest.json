@@ -1,0 +1,54 @@
+{
+  "name": "Patron mods",
+  "mods": [
+    {
+      "id": "mikasa_mod",
+      "name": "Mikasa",
+      "version": "1.1",
+      "description": "New event with Mikasa.\nStart via Cheats - Events.\n\n{size=-5}Trap content{/size}",
+      "game_version": "0.23",
+      "image": "http://mods.kunoichi-trainer.ninja/images/patron/mikasa_mod.webp",
+      "file_name": "mikasa_mod.zip"
+    },
+    {
+      "id": "shizune_secret",
+      "name": "Shizune's Secret",
+      "version": "1.0",
+      "description": "Event with Shizune\n{size=-5}Start event via Cheats - Events{/size}",
+      "game_version": "0.22",
+      "author": "Dinaki & Mizumi",
+      "image": "https://kunoichi-trainer.ru/mod_screenshots/shizune_secret.webp",
+      "file_name": "shizune_secret.zip"
+    },
+    {
+      "id": "shinobi_sisters_pack",
+      "name": "Shinobi Sisters pack",
+      "version": "1.0",
+      "description": "Outfits for Hinata, Ino, Sakura and TenTen",
+      "game_version": "0.20",
+      "author": "Dinaki",
+      "image": "https://kunoichi-trainer.ru/images/mod_screenshots/shinobi_sisters.webp",
+      "file_name": "shinobi_sisters_pack.zip"
+    },
+    {
+      "id": "karin_armpit",
+      "name": "Karin. Hot springs event",
+      "version": "1.1",
+      "description": "This mod contains armpit fuck scene.",
+      "game_version": "0.19",
+      "author": "Dinaki",
+      "image": "https://kunoichi-trainer.ru/images/mod_screenshots/karin_armpit.webp",
+      "file_name": "karin_armpit.zip"
+    },
+    {
+      "id": "karin_sakura_futa",
+      "name": "Karin and Sakura. Futa events",
+      "version": "3.1",
+      "description": "This mod contains futa and foot licking scenes.\n\nv3.0\nNew event added.\n\nv2.0\nNew event added.",
+      "game_version": "0.19",
+      "author": "Dinaki",
+      "image": "https://kunoichi-trainer.ru/images/mod_screenshots/karin_sakura_futa.webp",
+      "file_name": "karin_sakura_futa.zip"
+    }
+  ]
+}
